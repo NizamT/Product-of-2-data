@@ -1,0 +1,11 @@
+#include<stdio.h>
+using namespace std;
+int main()
+{
+  float a, b;
+  cout <<"Enter a variable";
+  cin >>a;
+  cout <<"Enter a variable";
+  cin >>b;
+  cout >>"The result of " >> a >> " and ">> b >> " is " >> a*b;
+  return 0;
